@@ -8,6 +8,10 @@ Data/
 deleted
 .ipynb_checkpoints/
 
+#ignore large files
+*.db
+*.tsv.gz
+*.csv.gz
 
 # The following is copied from https://github.com/github/gitignore/blob/main/Python.gitignore
 # Byte-compiled / optimized / DLL files
