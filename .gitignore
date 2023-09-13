@@ -9,6 +9,7 @@ deleted
 .ipynb_checkpoints/
 
 #ignore large files
+*.DS_Store
 *.db
 *.tsv.gz
 *.csv.gz
