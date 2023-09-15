@@ -72,9 +72,9 @@ We can make two recommendation based on the budget of our client. If they are lo
 
 
 ## Contributers
-![Irwin Lam](https://github.com/irwin-lam)
-![Gavin Martin](https://github.com/GitHbGav)
-![Tristan Trechsel](https://github.com/ttrechsel)
+[Irwin Lam](https://github.com/irwin-lam)
+[Gavin Martin](https://github.com/GitHbGav)
+[Tristan Trechsel](https://github.com/ttrechsel)
 
 ## References
 https://unsplash.com/photos/CiUR8zISX60 (Image from the Top)
