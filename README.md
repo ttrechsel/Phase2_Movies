@@ -72,7 +72,7 @@ We can make two recommendation based on the budget of our client. If they are lo
 
 
 ## Contributers
-Irwin Lam [![github](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5czpvMCAQZh1xf5IFg7iD052P7lRwy3M9cg2HuKoRyw&s)](https://github.com/irwin-lam)  
+Irwin Lam [![github](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5czpvMCAQZh1xf5IFg7iD052P7lRwy3M9cg2HuKoRyw&s | width= 100)](https://github.com/irwin-lam)  
 Gavin Martin [](https://github.com/GitHbGav)  
 Tristan Trechsel [](https://github.com/ttrechsel)  
 
