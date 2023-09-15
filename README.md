@@ -1,15 +1,17 @@
 # Movie Project
 ![image info](Images/ClapBoard.jpg)
 
-*[***Project Overview:***](#project-overview) the project goal, audience, and dataset
+Table of Contents
 
-*[**visualisations using stills:**](#visualisations-using-stills) fill in 
+*[***Project Overview:***](#project-overview)
 
-*[**visualisations using tableau:**](#visualisations-using-tableau) fill in 
+*[**visualisations using stills:**](#visualisations-using-stills) 
 
-*[***conclusion:***](#conclusion) fill in 
+*[**visualisations using tableau:**](#visualisations-using-tableau)
 
-*[***final eda notebook:***](#final-eda-notebook) fill in 
+*[***conclusion:***](#conclusion)
+
+*[***final eda notebook:***](#final-eda-notebook)
 
 
 ## Project Overview
@@ -31,29 +33,36 @@ Because it was collected from various locations, the different files have differ
 
 ![image info](Images/movie_data_erd.jpeg)
 
-After our initial EDA, the Numbers table had information that we wanted to use as a measure of success of a movie - Gross Revenue and Budget. With these values, we can calculate the Gross Return on Investment of each movie - another measure of success of a movie. 
+After our initial EDA, the Numbers table had information that we wanted to use as measures of success of a movie - Gross Revenue and Budget. With these values, we can calculate the Gross Return on Investment of each movie - another measure of success of a movie. 
 
-We decided to include another dataset to help us better recommend a movie. 
-*[More IMDB](insert link)
+We decided to include another dataset to help us better recommend a movie. Here is a link to the additional dataset that we used. 
 
-Our measure of success is based on Budget, Gross Revenue, and Gross ROI. We are looking at the differences among actors, directors, and genres. 
+*[More IMDB](https://www.kaggle.com/datasets/ashirwadsangwan/imdb-dataset?select=title.akas.tsv)
+
+Our measures of success are based on Budget, Gross Revenue, and Gross ROI, and we comparing it with actors, directors, and genres. 
+
 ## Visualisations Using stills
 
 ![image info](Images/gp_by_year.png)
 This image shows count of movies per year. In 2019, you can notice there is a dip and that is because of lack of data points during this year. 
 
 ![image info](Images/dist_gp_genre.png)
+
 Here, we look at a boxplot of the gross profit for each genres. For the most part, every genre has a very similar median and many outliers. However, one thing that we can notice is that ranges for each genres vary greatly. For example, genres like Adventure, Sci-fi, and Animation have a large range, while crime and horror have a small range. This means that the genres with a smaller range have the highest chances of predicting the profit while genres like Adventure can hit it big in the theaters or not. 
 
 ![image info](Images/roi_actors.png)
 
+We calculated the average ROI by getting the ratio of the sum of budget and sum of the gross revenue for each actor. The top three actors are Tobin Bell (known for Saw/Horror films), Ray Romano (known for Ice Age/Comedy), and Viggo Mortensen (Lord of the Rings/Action/Adventure). 
 
 ![image info](Images/roi_directors.png)
+
+We calculated the average ROI by getting the ratio of the sum of budget and sum of the gross revenue for each director. The top three directors are James Wan (Saw/Horror), Carlos Saldanha (Ice Age/Animation), and Chris Columbus (Home Alone/Comedy). 
 
 ## Visualisations Using Tableau
 [Tableau](https://public.tableau.com/app/profile/gavin.martin/viz/MovieGenres_16946599359490/MovieData)
 
 ## Conclusion
+We can make two recommendation based on the budget of our client. If they are looking for a low budget film, we suggest making a horror film with James Wan as the director and Tobin Bell as the main actor. If their budget is high, we suggest making an animation film with Carlos Saldanha as the director and the Ray Romano as the main actor.  
 
 ### Link to the Presentation:
 [Google Slides](https://docs.google.com/presentation/d/1bva88xJqU2SuDrMhn5D2jdZ_Wj9cw52Ofb1wlqBg-uQ/edit?usp=sharing)
