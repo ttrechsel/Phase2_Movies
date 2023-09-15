@@ -29,7 +29,7 @@ In the folder `zippedData` are movie datasets from:
 
 Because it was collected from various locations, the different files have different formats. Some are compressed CSV (comma-separated values) or TSV (tab-separated values) files that can be opened using spreadsheet software or `pd.read_csv`, while the data from IMDB is located in a SQLite database.
 
-![image info](Images/movie_data_erd.jpg)
+![image info](Images/movie_data_erd.jpeg)
 
 After our initial EDA, the Numbers table had information that we wanted to use as a measure of success of a movie - Gross Revenue and Budget. With these values, we can calculate the Gross Return on Investment of each movie - another measure of success of a movie. 
 
