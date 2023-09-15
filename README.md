@@ -67,10 +67,14 @@ We can make two recommendation based on the budget of our client. If they are lo
 ### Link to the Presentation:
 [Google Slides](https://docs.google.com/presentation/d/1bva88xJqU2SuDrMhn5D2jdZ_Wj9cw52Ofb1wlqBg-uQ/edit?usp=sharing)
 
-
 ### Final EDA Notebook
 [Notebook](https://github.com/ttrechsel/Phase2_Movies/blob/main/Movie_Project_Final_JN.ipynb)
+
+
+## Contributers
+![Irwin Lam](https://github.com/irwin-lam)
+![Gavin Martin](https://github.com/GitHbGav)
+![Tristan Trechsel](https://github.com/ttrechsel)
+
 ## References
 https://unsplash.com/photos/CiUR8zISX60 (Image from the Top)
-
-https://www.kaggle.com/datasets/ashirwadsangwan/imdb-dataset?select=title.akas.tsv (Extra Data)
