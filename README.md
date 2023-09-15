@@ -5,9 +5,9 @@ Table of Contents
 
 * [***Project Overview:***](#project-overview)
 
-* [**Visualisations using Stills:**](#visualisations-using-stills) 
+* [***Visualisations using Stills:***](#visualisations-using-stills) 
 
-* [**Visualisations using Tableau:**](#visualisations-using-tableau)
+* [***Visualisations using Tableau:***](#visualisations-using-tableau)
 
 * [***Conclusion:***](#conclusion)
 
@@ -37,9 +37,11 @@ After our initial EDA, the Numbers table had information that we wanted to use a
 
 We decided to include another dataset to help us better recommend a movie. Here is a link to the additional dataset that we used. 
 
-*[More IMDB](https://www.kaggle.com/datasets/ashirwadsangwan/imdb-dataset?select=title.akas.tsv)
+[More IMDB](https://www.kaggle.com/datasets/ashirwadsangwan/imdb-dataset?select=title.akas.tsv)
 
-Our measures of success are based on Budget, Gross Revenue, and Gross ROI, and we comparing it with actors, directors, and genres. 
+Our measures of success are based on Budget, Gross Revenue, and Gross ROI, and we comparing it with actors, directors, and genres.  
+Here is a snippet of a couple of the genres. 
+![image_info](Images/genre_table.png)
 
 ## Visualisations Using stills
 
