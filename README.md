@@ -54,11 +54,11 @@ Here, we look at a boxplot of the gross profit for each genres. For the most par
 
 ![image info](Images/roi_actors.png)
 
-We calculated the average ROI by getting the ratio of the sum of budget and sum of the gross revenue for each actor. The top three actors are Tobin Bell (known for Saw/Horror films), Ray Romano (known for Ice Age/Comedy), and Viggo Mortensen (Lord of the Rings/Action/Adventure). 
+We calculated the average ROI by getting the ratio of the sum of budget and sum of the gross revenue for each actor. Then we filtered for actors with at least 5 movies in the dataset. The top three actors are Tobin Bell (known for Saw/Horror films), Ray Romano (known for Ice Age/Comedy), and Viggo Mortensen (Lord of the Rings/Action/Adventure). 
 
 ![image info](Images/roi_directors.png)
 
-We calculated the average ROI by getting the ratio of the sum of budget and sum of the gross revenue for each director. The top three directors are James Wan (Saw/Horror), Carlos Saldanha (Ice Age/Animation), and Chris Columbus (Home Alone/Comedy). 
+We calculated the average ROI by getting the ratio of the sum of budget and sum of the gross revenue for each director. Then we filtered for directors with at least 5 movies in the dataset. The top three directors are James Wan (Insidious/Horror), Jake Kasdan (Comedy), and Carlos Saldanha (Ice Age/Animation). 
 
 ## Visualisations Using Tableau
 [Tableau](https://public.tableau.com/app/profile/gavin.martin/viz/MovieGenres_16946599359490/MovieData)
