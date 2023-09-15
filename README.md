@@ -72,9 +72,9 @@ We can make two recommendation based on the budget of our client. If they are lo
 
 
 ## Contributers
-Irwin Lam <a href = "https://github.com/irwin-lam"><img src='https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_1280.png' width = '25' height='25'></a><a href="https://www.linkedin.com/in/irwinlam/"><img src='https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg'></a>  
-Gavin Martin <a href = "https://github.com/GitHbGav"><img src='https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_1280.png' width = '25' height='25'></a><a href="https://www.linkedin.com/in/gavin-martin-/"><img src='https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg'></a>  
-Tristan Trechsel <a href = "https://github.com/ttrechsel"><img src='https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_1280.png' width = '25' height='25'></a><a href="https://www.linkedin.com/in/trechsel/"><img src='https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg'></a>  
+Irwin Lam <a href = "https://github.com/irwin-lam"><img src='https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_1280.png' width = '25' height='25'></a><a href="https://www.linkedin.com/in/irwinlam/"><img src='https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg' width = '25' height='25'></a>  
+Gavin Martin <a href = "https://github.com/GitHbGav"><img src='https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_1280.png' width = '25' height='25'></a><a href="https://www.linkedin.com/in/gavin-martin-/"><img src='https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg' width = '25' height='25'></a>  
+Tristan Trechsel <a href = "https://github.com/ttrechsel"><img src='https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_1280.png' width = '25' height='25'></a><a href="https://www.linkedin.com/in/trechsel/"><img src='https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg' width = '25' height='25'></a>  
 
 ## References
 https://unsplash.com/photos/CiUR8zISX60 (Image from the Top)
