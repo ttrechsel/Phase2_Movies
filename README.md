@@ -72,7 +72,7 @@ We can make two recommendation based on the budget of our client. If they are lo
 
 
 ## Contributers
-Irwin Lam <img src='https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_1280.png' width = '100' height='100'>(https://github.com/irwin-lam)  
+Irwin Lam <a href = "https://github.com/irwin-lam"><img src='https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_1280.png' width = '100' height='100'></a>
 Gavin Martin [](https://github.com/GitHbGav)  
 Tristan Trechsel [](https://github.com/ttrechsel)  
 
