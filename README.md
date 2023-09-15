@@ -3,15 +3,15 @@
 
 Table of Contents
 
-*[***Project Overview:***](#project-overview)
+* [***Project Overview:***](#project-overview)
 
-*[**visualisations using stills:**](#visualisations-using-stills) 
+* [**Visualisations using Stills:**](#visualisations-using-stills) 
 
-*[**visualisations using tableau:**](#visualisations-using-tableau)
+* [**Visualisations using Tableau:**](#visualisations-using-tableau)
 
-*[***conclusion:***](#conclusion)
+* [***Conclusion:***](#conclusion)
 
-*[***final eda notebook:***](#final-eda-notebook)
+* [***Final Notebook:***](#final-eda-notebook)
 
 
 ## Project Overview
