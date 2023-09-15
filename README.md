@@ -51,7 +51,7 @@ Here, we look at a boxplot of the gross profit for each genres. For the most par
 ![image info](Images/roi_directors.png)
 
 ## Visualisations Using Tableau
-[Tableau](Put link here when done)
+[Tableau](https://public.tableau.com/app/profile/gavin.martin/viz/MovieGenres_16946599359490/MovieData)
 
 ## Conclusion
 
@@ -63,3 +63,5 @@ Here, we look at a boxplot of the gross profit for each genres. For the most par
 [Notebook](https://github.com/ttrechsel/Phase2_Movies/blob/main/Movie_Project_Final_JN.ipynb)
 ## References
 https://unsplash.com/photos/CiUR8zISX60 (Image from the Top)
+
+https://www.kaggle.com/datasets/ashirwadsangwan/imdb-dataset?select=title.akas.tsv (Extra Data)
